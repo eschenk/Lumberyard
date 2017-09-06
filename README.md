@@ -1,5 +1,6 @@
 ![lmbr](https://s3-us-west-2.amazonaws.com/git-release/ReadmeResources/readme_header.jpg)
 
+
 # Amazon Lumberyard
 Amazon Lumberyard is a free AAA game engine that gives developers the tools they need to create the highest-quality games. Deeply integrated with the AWS Cloud and Twitch, Amazon Lumberyard also includes full source, allowing you to customize your project at any level.
 
